@@ -6,3 +6,5 @@ salin perintah dibawah ini ke System - Startup
 
 taruh script sebelum exit0.
 script bekerja ketika stb pertama kali booting
+
+jangan lupa join channel telegram https://t.me/ditembaklipon
