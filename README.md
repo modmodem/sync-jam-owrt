@@ -4,5 +4,5 @@ salin perintah dibawah ini ke System - Startup
 
 /usr/bin/jam.sh bug.com:80
 
-taruh script sebelum exit0
+taruh script sebelum exit0.
 script bekerja ketika stb pertama kali booting
